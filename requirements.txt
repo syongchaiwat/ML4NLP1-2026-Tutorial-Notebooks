@@ -31,6 +31,7 @@ fonttools==4.65.0
 fqdn==1.5.1
 frozenlist==1.8.0
 fsspec==2026.6.0
+gdown
 h11==0.16.0
 hf-xet==1.6.0
 httpcore==1.0.9
@@ -106,6 +107,7 @@ scikit-learn==1.9.1
 scipy==1.18.1
 seaborn==0.13.2
 Send2Trash==2.1.0
+shap==0.52.0
 six==1.17.0
 soupsieve==2.9.2
 stack-data==0.6.3
