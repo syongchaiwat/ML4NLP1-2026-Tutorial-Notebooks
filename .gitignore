@@ -12,4 +12,6 @@ y_test.txt
 y_train.txt
 ex1_nn_testytest.ipynb
 train_df.csv
-exercises/ex2/content/
+# ex2: ignore the downloaded datasets, but keep the trained models (so they can be loaded instead of retrained)
+exercises/ex2/content/*
+!exercises/ex2/content/models/
